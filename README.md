@@ -12,7 +12,7 @@ fast without shipping junk.
 
 - TypeScript, JavaScript, Node.js, React, Next.js
 - Rust, Python
-- PostgreSQL, Redis, Kafka
+- MongoDB, PostgreSQL, Redis, Kafka
 - AWS, Azure, Docker, Kubernetes
 - LLM integration, agent orchestration (LangGraph), RAG
 
