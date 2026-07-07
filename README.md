@@ -27,7 +27,7 @@ fast without shipping junk.
   turns a JSON brief into a finished vertical video. It fetches images, generates
   voiceover and synced captions, and renders with Remotion. Built in TypeScript
   and React.
-  -[TradeBot](https://github.com/KnaniOussama/TradeBot): autonomous trading bot for Solana DEXs, written in Rust; agent-style decision loop with guardrails and safe fallbacks, encrypted keystore, live dashboard, 165 tests.
+- [TradeBot](https://github.com/KnaniOussama/TradeBot): autonomous trading bot for Solana DEXs, written in Rust; agent-style decision loop with guardrails and safe fallbacks, encrypted keystore, live dashboard, 165 tests.
 
 **Reach me**
 
