@@ -18,6 +18,8 @@ fast without shipping junk.
 
 **A few things I've built**
 
+
+- [prompt-to-mcp](https://github.com/KnaniOussama/prompt-to-mcp): Describe the MCP server you want. Point at an OpenAPI spec. Get a small, curated FastMCP server as editable code.
 - [rload](https://github.com/KnaniOussama/rload): a small, fast HTTP load-testing
   CLI in Rust. Ships with a benchmark harness and a Node baseline, and comes out
   around 1.7x the throughput with 2.1x lower p99 latency.
